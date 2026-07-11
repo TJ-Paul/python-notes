@@ -1,0 +1,3 @@
+this is a demo file.
+python automatically closes the file
+Hello
