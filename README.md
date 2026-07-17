@@ -84,7 +84,7 @@ This repo is meant to be a personal learning journal and a handy cheat sheet for
 ## 👨‍💻 About the Developer
 <h3 align="left">Turjjo Paul</h3>
 <p align="left">
-Computer Science & Engineering Student at <b>Bangladesh University of Engineering and Technology (BUET)</b> — Class of 2023.
+Computer Science & Engineering Student at <b>Bangladesh University of Engineering and Technology (BUET)</b>
 </p>
 
 - 📧 Contact: [tjpaul770@gmail.com](mailto:tjpaul770@gmail.com)
